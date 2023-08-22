@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+
+<listeners>
+<listener class-name="Utility.ExtentReporter"></listener>
+</listeners>								
+								
+<test name="Sanity">
+<parameter name="browser" value="chrome"></parameter>
+								
+<classes>
+										  
+<class name="TestCases.loginTC"/>
+<class name="TestCases.SectionTestCases"/>
+<class name="TestCases.ContentTestCases"/>
+<class name="TestCases.ReceiptsTC"/>
+<class name="TestCases.AddNewUsersTC"/>
+<class name="TestCases.ListOfResidentsTC"/>
+<class name="TestCases.ListOfTenantsTc"/>
+<class name="TestCases.ExpensesTestCases"/>
+<class name="TestCases.ListOfExpensesTC"/>
+											
+</classes>
+</test> <!-- LoginTest -->
+</suite> <!-- Suite -->

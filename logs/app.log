@@ -1,0 +1,102 @@
+2023-08-17 13:58:11,539 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 13:58:27,799 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-17 13:58:27,868 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-17 13:58:38,889 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-17 13:58:38,898 - Utility.ExtentReporter [onTestSuccess] -(INFO) loginWithValidCredentialTestcase is passed 
+2023-08-17 13:59:12,420 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 13:59:30,563 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-17 13:59:30,656 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-17 13:59:33,765 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-17 13:59:33,775 - Utility.ExtentReporter [onTestSuccess] -(INFO) loginWithValidCredentialTestcase is passed 
+2023-08-17 14:38:24,979 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 14:41:29,654 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 14:47:45,517 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 14:58:39,901 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 14:59:08,551 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-17 14:59:08,632 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-17 14:59:15,507 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-17 15:05:13,913 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-17 15:05:42,672 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-17 15:05:42,731 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-17 15:05:58,119 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-17 15:05:58,142 - Utility.ExtentReporter [onTestSuccess] -(INFO) loginWithValidCredentialTestcase is passed 
+2023-08-17 15:06:20,272 - Utility.ExtentReporter [onTestSuccess] -(INFO) sectionTest01Testcase is passed 
+2023-08-17 15:06:20,316 - Utility.ExtentReporter [onTestSuccess] -(INFO) contentTc_02Testcase is passed 
+2023-08-17 15:06:26,636 - Utility.ExtentReporter [onTestFailure] -(INFO) addNewUserContentTestTestCase failed 
+2023-08-17 15:06:26,914 - Utility.ExtentReporter [onTestFailure] -(INFO) addNewUserContentTest Testcase failed 
+2023-08-17 15:06:32,437 - Utility.ExtentReporter [onTestFailure] -(INFO) addNewReceiptsTestCase failed 
+2023-08-17 15:06:32,652 - Utility.ExtentReporter [onTestFailure] -(INFO) addNewReceipts Testcase failed 
+2023-08-17 15:06:38,105 - Utility.ExtentReporter [onTestFailure] -(INFO) SubmitAddNewUserTestCase failed 
+2023-08-17 15:06:38,357 - Utility.ExtentReporter [onTestFailure] -(INFO) SubmitAddNewUser Testcase failed 
+2023-08-17 15:06:43,807 - Utility.ExtentReporter [onTestFailure] -(INFO) ClearAddNewUserTestCase failed 
+2023-08-17 15:06:44,082 - Utility.ExtentReporter [onTestFailure] -(INFO) ClearAddNewUser Testcase failed 
+2023-08-17 15:07:02,403 - Utility.ExtentReporter [onTestSuccess] -(INFO) ListOfResidentTc01Testcase is passed 
+2023-08-17 15:07:10,294 - Utility.ExtentReporter [onTestSuccess] -(INFO) ListOfTenantsTC_01Testcase is passed 
+2023-08-17 15:07:15,416 - Utility.ExtentReporter [onTestFailure] -(INFO) addExpensesTC_01TestCase failed 
+2023-08-17 15:07:15,640 - Utility.ExtentReporter [onTestFailure] -(INFO) addExpensesTC_01 Testcase failed 
+2023-08-17 15:07:43,922 - Utility.ExtentReporter [onTestSuccess] -(INFO) ListOfExpensesTC_01Testcase is passed 
+2023-08-19 12:15:26,742 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:16:10,365 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:41:26,021 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:42:22,254 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:46:06,276 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:46:15,635 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 12:46:15,744 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 12:46:17,434 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 12:48:27,979 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:48:39,350 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 12:48:39,436 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 12:48:41,650 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 12:52:02,018 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:53:56,373 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 12:54:14,944 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 12:54:15,015 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 12:54:17,017 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 12:58:55,802 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:02:14,405 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:02:34,238 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:02:34,323 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:02:38,145 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:06:21,258 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:08:03,972 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:09:27,618 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:09:45,382 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:09:45,470 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:09:48,075 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:26:45,066 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:26:54,211 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:26:54,315 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:26:59,616 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:27:35,398 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:27:48,670 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:27:48,748 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:27:51,046 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:28:36,815 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:28:50,003 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:28:50,081 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:28:51,868 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:30:20,727 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:30:30,579 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:30:30,674 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:30:33,582 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 13:54:27,789 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:55:09,258 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 13:55:24,499 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 13:55:24,578 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 13:55:28,843 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 14:00:15,598 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 14:00:28,565 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 14:00:28,649 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 14:00:31,262 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 14:02:37,044 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 14:02:43,776 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 14:02:43,851 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 14:02:46,344 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 14:04:49,816 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 14:05:02,338 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 14:05:02,414 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 14:05:04,126 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
+2023-08-19 14:20:31,685 - Utility.BaseClass [setup] -(INFO) Launching Chrome Browser 
+2023-08-19 14:20:43,206 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the user name 
+2023-08-19 14:20:43,274 - TestCases.loginTC [loginWithValidCredential] -(INFO) Enter the password 
+2023-08-19 14:20:51,570 - TestCases.loginTC [loginWithValidCredential] -(INFO) click the signin button 
